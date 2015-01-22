@@ -1,4 +1,6 @@
 define([
+  './module',
+
   // Directives
   './scripts/messenger_directive',
 
